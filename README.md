@@ -9,7 +9,7 @@ Includes EAGLE board schematic for a RPi Zero HAT which the computer's front pan
 EAGLE board and schematic
 --------
 ![EAGLE board and schematic](images/eagle_rpi_hat.png)
-![RPi Zero with HAT](images/rpi_with_hat.png)
+![RPi Zero with HAT](images/rpi_with_hat.jpg)
 
 Python script use
 --------
