@@ -6,6 +6,10 @@ Intended to be used over SSH to control the power state of a desktop computer.
 
 Includes EAGLE board schematic for a RPi HAT which the computer's front panel header connect to. And python scripts which can then be executed on the RPi to query/change the power state of the connected computer.
 
+EAGLE board and schematic
+--------
+![EAGLE board and schematic](eagle_rpi_hat.png)
+
 Python script use
 --------
 ```bash
