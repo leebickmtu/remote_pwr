@@ -14,7 +14,7 @@ EAGLE board and schematic
 Python script use
 --------
 ```bash
-# Query the power state
+# Query the power state (returns 'sleep', 'on', 'off')
 ./remote_pwr state
 
 # "Push" the power or reset buttons
