@@ -4,7 +4,7 @@ Remotely query/change the power state of a computer from an always on, low power
 
 Intended to be used over SSH to control the power state of a desktop computer.
 
-Includes EAGLE board schematic for a RPi HAT which the computer's front panel header connect to. And python scripts which can then be executed on the RPi to query/change the power state of the connected computer.
+Includes EAGLE board schematic for a RPi Zero HAT which the computer's front panel header connect to. And python scripts which can then be executed on the RPi to query/change the power state of the connected computer.
 
 EAGLE board and schematic
 --------
