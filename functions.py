@@ -54,11 +54,11 @@ def pwr_state():
 		GPIO.remove_event_detect(pin)
 		
 		if (count.x > 0):
-			print "sleep"
+			print("sleep")
 		elif (GPIO.input(pin)):
-			print "on"
+			print("on")
 		else:
-			print "off"
+			print("off")
 	
 	finally:
 		GPIO.cleanup()

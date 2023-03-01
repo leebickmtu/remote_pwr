@@ -12,6 +12,6 @@ elif ( len(sys.argv) == 3 and sys.argv[1] == 'hold' and sys.argv[2] == 'pwr' ):
 elif ( len(sys.argv) == 2 and sys.argv[1] == 'state' ):
 	functions.pwr_state()
 else:
-	print '\nInvalid arguments\n'
+	print('\nInvalid arguments\n')
 	sys.exit(1)
 
